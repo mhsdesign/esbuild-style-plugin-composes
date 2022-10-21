@@ -1,0 +1,16 @@
+{
+  "name": "esbuid-css-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node esbuild.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.15.12",
+    "esbuild-style-plugin": "^1.6.0"
+  }
+}
