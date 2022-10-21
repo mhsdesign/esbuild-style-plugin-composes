@@ -1,5 +1,6 @@
 
 .text {
     composes: mixin from './mixin.module.css';
-    color: red;
+    /* should ovveride the mixin */
+    color: green;
 }

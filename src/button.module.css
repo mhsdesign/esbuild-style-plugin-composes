@@ -1,5 +1,6 @@
 
 .button {
     composes: mixin from './mixin.module.css';
+    /* should ovveride the mixin */
     color: blue;
 }
